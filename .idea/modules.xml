@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RestaurantsManager/RestaurantServices/RestaurantServices.iml" filepath="$PROJECT_DIR$/RestaurantsManager/RestaurantServices/RestaurantServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestaurantsManager/RestaurantsManager.iml" filepath="$PROJECT_DIR$/RestaurantsManager/RestaurantsManager.iml" />
+    </modules>
+  </component>
+</project>
